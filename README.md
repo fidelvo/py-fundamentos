@@ -41,8 +41,7 @@ virtualenv -p python3 env
 
 Activar entorno virtual
 ```
-cd env/Scripts
-. activate
+. env/Scripts/activate
 ```
 
 ### Instalación de flask
